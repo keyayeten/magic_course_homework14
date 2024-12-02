@@ -1,0 +1,13 @@
+
+-----
+Test: user_fixtures.py::test_avt_user (setup)
+Time: 2024-12-02 09:41:11.087361
+Request method: POST
+Request URL: http://127.0.0.1:8000/auth/jwt/create/
+
+Response code: 200
+Response text: {"refresh":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczMzIwODA3MSwiaWF0IjoxNzMzMTIxNjcxLCJqdGkiOiI4YzE4M2FkY2JkYzE0YWIxOTI0M2ZkMDUwZmNjNjIzMiIsInVzZXJfaWQiOjE1fQ.1k83_jJKd1oDmVPMvrYEOkuoXUjWnub4aCxWDiduk0A","access":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzMzMTIzNDcxLCJpYXQiOjE3MzMxMjE2NzEsImp0aSI6IjVhYWYyMThhOGIyMDQ5MTE4NDFmZTllZjA0ZGRjYzMyIiwidXNlcl9pZCI6MTV9.SETKP6YyTOlSc2XmEao5Pz5_39aMkgptxcS5StjSm4U"}
+Response headers: {'Date': 'Mon, 02 Dec 2024 06:41:11 GMT', 'Server': 'WSGIServer/0.2 CPython/3.10.11', 'Content-Type': 'application/json', 'Vary': 'Accept', 'Allow': 'POST, OPTIONS', 'X-Frame-Options': 'DENY', 'Content-Length': '486', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'same-origin', 'Cross-Origin-Opener-Policy': 'same-origin'}
+Response cookies: {}
+
+-----
